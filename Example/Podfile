@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ATTimer_Example' do
+  pod 'ATTimer', :path => '../'
+
+  target 'ATTimer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
