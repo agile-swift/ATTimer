@@ -1,6 +1,6 @@
 {
   "name": "ATTimer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A swift timer base GCD",
   "description": "A part of Agile Tools For Swift, it's a timer",
   "homepage": "https://github.com/agile-swift/ATTimer",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/agile-swift/ATTimer.git",
-    "tag": "0.1.1"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "9.0"
