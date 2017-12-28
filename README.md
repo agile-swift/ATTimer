@@ -1,29 +1,26 @@
 # ATTimer
 
-[![CI Status](http://img.shields.io/travis/devkevinma@gmail.com/ATTimer.svg?style=flat)](https://travis-ci.org/devkevinma@gmail.com/ATTimer)
-[![Version](https://img.shields.io/cocoapods/v/ATTimer.svg?style=flat)](http://cocoapods.org/pods/ATTimer)
-[![License](https://img.shields.io/cocoapods/l/ATTimer.svg?style=flat)](http://cocoapods.org/pods/ATTimer)
-[![Platform](https://img.shields.io/cocoapods/p/ATTimer.svg?style=flat)](http://cocoapods.org/pods/ATTimer)
+基于GCD的定时器
 
-## Example
+## 集成([CocoaPods](http://cocoapods.org))
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+在 podfile 文件中添加
 
-## Requirements
-
-## Installation
-
-ATTimer is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
+```
+source "https://github.com/agile-swift/Specs.git"
 pod 'ATTimer'
 ```
 
-## Author
+
+## 详细信息
+
+请移步[https://github.com/agile-swift/AgileTools/blob/master/README.md](https://github.com/agile-swift/AgileTools/blob/master/README.md)
+
+
+## 功能
+
+* 基于GCD的定时器的封装
+
+## 反馈
 
 devkevinma@gmail.com, admin@makaiwen.com
-
-## License
-
-ATTimer is available under the MIT license. See the LICENSE file for more info.

@@ -1,5 +1,5 @@
 PODS:
-  - ATTimer (0.1.0)
+  - ATTimer (0.1.2)
 
 DEPENDENCIES:
   - ATTimer (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  ATTimer: 435c78fb2c2a3324e458a466edeb99041af63e76
+  ATTimer: 1e63215f6055e5370b2518884e562b6a700a644d
 
 PODFILE CHECKSUM: 4089ae56de3a8fa7f09837a24678a6eb27d045e3
 
